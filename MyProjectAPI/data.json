@@ -1,0 +1,511 @@
+{
+    "type": "FeatureCollection",
+    "features":
+    [
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.82018964139018, 37.5464383077585]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Парк &quot;Тимирязевский&quot;",
+                "balloonContent": "<img src='images/Timiryazevsky.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Большая Академическая ул., 38<br><b>Время работы: </b><br> ПН-ВС - Круглосуточно;<br><b>Контакты:<br></b><a href='tel:+74959760132'>+7 (495) 976-01-32</a><br><a href='https://www.timacad.ru/news/priglashaem-abiturientov-na-progulku-v-istoricheskii-park'>Сайт</a>",
+                "clusterCaption": "Парк",
+                "class": "Парк",
+                "hintContent": "Парк &quot;Тимирязевский&quot"
+            },
+            "options":
+            {
+                "preset": "islands#greenVegetationIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.820370577017194, 37.56670513897042]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Парк &quot;Дубки&quot;",
+                "balloonContent": "<img src='images/Dubki.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>ул. Дубки, 6<br><b>Время работы: </b><br> ПН-ВС - Круглосуточно <br><b>Контакты:<br> </b><a href='tel:+79104585300'>+7 (910) 458-53-00</a><br><a href='http://www.park-dubki.ru/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Парк",
+                "class": "Парк",
+                "hintContent": "Парк &quot;Дубки&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#greenVegetationIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.82976793469062, 37.5612763479243]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Парк &quot;Мичуринский сад&quot;",
+                "balloonContent": "<img src='images/Michurin.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Верхняя аллея, 4А<br><b>Время работы: </b><br> ПН-ПТ - с 09:00 до 16:00<br> СБ-ВС - Выходной <br><b>Контакты:<br> </b><a href='tel:+79958955010'>+7 995 895-50-10</a><br><a href='https://www.xn----8sbmnaahgpm5aoet3d.xn--p1ai/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Парк",
+                "class": "Парк",
+                "hintContent": "Парк &quot;Мичуринский сад&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#greenVegetationIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.84090360722513, 37.60541050982169]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Парк &quot;Ботанический сад&quot;",
+                "balloonContent": "<img src='images/Botanic.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Ботаническая ул., 4<br><b>Время работы: </b><br> ПН-ВС - с 08:00 до 22:00<br><b>Контакты:<br> </b><a href='tel:+74999779145'>+7 (499) 977 91 45</a><br><a href='https://gbsad.ru/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Парк",
+                "class": "Парк",
+                "hintContent": "Парк &quot;Ботанический сад&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#greenVegetationIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.828741920115945, 37.609916620966715]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Парк &quot;Останкино&quot;",
+                "balloonContent": "<img src='images/Ostankino.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>проспект Мира, 119<br><b>Время работы: </b><br> Круглосуточно<br><b>Контакты:<br> </b><a href='tel:+74959747777'>+7 (495) 974-77-77</a><br><a href='http://ostankino.vdnh.ru/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Парк",
+                "class": "Парк",
+                "hintContent": "Парк &quot;Останкино&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#greenVegetationIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.8179644269843, 37.55626501033988]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Музей &quot;Музей леса имени А.Р. Варгаса де Бедемара&quot;",
+                "balloonContent": "<img src='images/Bedemar.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>ул. Вучетича, 46<br><b>Время работы: </b><br> ПН-ПТ - с 09:00 до 18:00<br><b>Контакты:<br> </b><a href='tel:+74999776216'>+7 (499) 977-62-16</a><br><a href='https://museum.timacad.ru/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%BB%D0%B5%D1%81%D0%B0-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-%D0%B0-%D1%80-%D0%B2%D0%B0%D1%80%D0%B3%D0%B0%D1%81%D0%B0-%D0%B4%D0%B5-%D0%B1%D0%B5%D0%B4%D0%B5%D0%BC%D0%B0%D1%80/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Музей",
+                "class": "Музей",
+                "hintContent": "Музей &quot; Музей леса имени А.Р. Варгаса де Бедемара&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#blueLeisureIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.830628492492174, 37.553251003541696]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Музей &quot;Научно-художественный музей коневодства&quot;",
+                "balloonContent": "<img src='images/Konevod.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Тимирязевская ул., 44<br><b>Время работы: </b><br> ВТ и ЧТ - с 10:00 до 16:00<br><b>Контакты:<br> </b><a href='tel:+74999761003'>+7 (499) 976-10-03</a><br><a href='https://museum.timacad.ru/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d0%be-%d1%85%d1%83%d0%b4%d0%be%d0%b6%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d0%b9-%d0%bc%d1%83%d0%b7%d0%b5%d0%b9-%d0%ba%d0%be%d0%bd%d0%b5%d0%b2%d0%be%d0%b4/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Музей",
+                "class": "Музей",
+                "hintContent": "Музей &quot;Научно-художественный музей коневодства&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#blueLeisureIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.83597506136699, 37.56662658583575]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Музей &quot;Государственный музей животноводства им. Е.Ф. Лискуна&quot;",
+                "balloonContent": "<img src='images/Liskun.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Лиственничная аллея, 14<br><b>Время работы: </b><br> ПН-ПТ - с 10:00 до 16:00<br><b>Контакты:<br> </b><a href='tel:+74999763870'>+7 (499) 976-38-70</a><br><a href='https://museum.timacad.ru/253-2/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Музей",
+                "class": "Музей",
+                "hintContent": "Музей &quot;Государственный музей животноводства им. Е.Ф. Лискуна&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#blueLeisureIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.83446947955406, 37.548879941049414]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Музей &quot;Почвенно-агрономический музей им. В.Р. Вильямса&quot;",
+                "balloonContent": "<img src='images/Vilyams.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>ул. Тимирязевская д. 55<br><b>Время работы: </b><br> ПН-ПТ - с 09:00 до 16:00<br><b>Контакты:<br> </b><a href='tel:+74999760280'>+7 (499) 976-02-80</a><br><a href='https://museum.timacad.ru/%D0%BF%D0%BE%D1%87%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B0%D0%B3%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D0%BC-%D0%B2-%D1%80-%D0%B2/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Музей",
+                "class": "Музей",
+                "hintContent": "Музей &quot;Почвенно-агрономический музей им. В.Р. Вильямса&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#blueLeisureIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.83129317357705, 37.551142419938856]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Музей &quot;Музей истории МСХА&quot;",
+                "balloonContent": "<img src='images/History.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>ул. Тимирязевская, 45<br><b>Время работы: </b><br> ПН-ПТ - с 09:00 до 16:00<br><b>Контакты:<br> </b><a href='tel:+74999763521'>+7 (499) 976-35-21</a><br><a href='https://museum.timacad.ru/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8-%D0%BC%D1%81%D1%85%D0%B0/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Музей",
+                "class": "Музей",
+                "hintContent": "Музей &quot;Музей истории МСХА&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#blueLeisureIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.836401376012184, 37.55694135582903]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Музей &quot;Музей земледельческой механики им. В.П. Горячкина&quot;",
+                "balloonContent": "<img src='images/Goryachkina.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Ул. Прянишникова д. 14, строение 3<br><b>Время работы: </b><br> ПН-ПТ - с 10:00 до 18:00<br><b>Контакты:<br> </b><a href='tel:+79104736231'>+7 (910) 473-62-31</a><br><a href='https://museum.timacad.ru/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B8%D0%BC-%D0%B2-%D0%BF/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Музей",
+                "class": "Музей",
+                "hintContent": "Музей &quot;Музей земледельческой механики им. В.П. Горячкина&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#blueLeisureIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.83576865576909, 37.54950301514455]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Музей &quot;Музей истории мелиорации и гидротехники им. А.Н. Костякова&quot;",
+                "balloonContent": "<img src='images/Kostyakov.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Улица Прянишникова, д. 19, каб. 135.<br><b>Время работы: </b><br> ПН-ПТ - с 10:00 до 16:00<br><b>Контакты:<br> </b><a href='tel:+74999761602'>+7 (499) 976-16-02</a><br><a href='https://museum.timacad.ru/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8-%D0%BC%D0%B5%D0%BB%D0%B8%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%B8-%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Музей",
+                "class": "Музей",
+                "hintContent": "Музей &quot;Музей истории мелиорации и гидротехники им. А.Н. Костякова&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#blueLeisureIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.82672894885953, 37.54702721738397]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Музей &quot;Музей пчеловодства имени А.Г. Аветисяна&quot;",
+                "balloonContent": "<img src='images/Pcheli.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>ул. Пасечная, 3<br><b>Время работы: </b><br> ПН-ПТ - с 09:00 до 16:00<br><b>Контакты:<br> </b><a href='tel:+74999763367'>+7 (499) 976-33-67</a><br><a href='https://museum.timacad.ru/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%BF%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-%D0%B0-%D0%B3-%D0%B0%D0%B2%D0%B5%D1%82%D0%B8%D1%81%D1%8F%D0%BD/#Shema' target='_blank'>Сайт</a>",
+                "clusterCaption": "Музей",
+                "class": "Музей",
+                "hintContent": "Музей &quot;Музей пчеловодства имени А.Г. Аветисяна&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#blueLeisureIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.83318051256972, 37.55255468851816]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Библиотека &quot;Центральная научная библиотека имени Н.И. Железнова&quot;",
+                "balloonContent": "<img src='images/Jeleznogo.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Лиственничная аллея, 2, корп. 1<br><b>Время работы: </b><br> ПН-ПТ - с 09:00 до 19:00<br><b>Контакты:<br> </b><a href='э'tel:+74999761485'>+7 (499) 976-14-85</a><br><a href='http://library.timacad.ru/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Библиотека",
+                "class": "Библиотека",
+                "hintContent": "Библиотека &quot;Центральная научная библиотека имени Н.И. Железнова&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#brownBookIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.83358062532674, 37.57197742383645]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Библиотека &quot;Библиотека №29&quot;",
+                "balloonContent": "<img src='images/library29.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Дмитровское шоссе, 43к1<br><b>Время работы: </b><br> ВТ-СБ - с 12:00 до 22:00<br> ВС - с 12:00 до 20:00<br><b>Контакты:<br> </b><a href='tel:+74959774502'>+7 (495) 977-45-02</a><br><a href='https://cbssao.ru/biblio29-2' target='_blank'>Сайт</a>",
+                "clusterCaption": "Библиотека",
+                "class": "Библиотека",
+                "hintContent": "Библиотека &quot;Библиотека № 29&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#brownBookIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.82527370426838, 37.57119185600546]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Библиотека &quot;Библиотека №39&quot;",
+                "balloonContent": "<img src='images/library39.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Дмитровское шоссе, 25к1<br><b>Время работы: </b><br> ВТ-СБ - с 12:00 до 22:00<br> ВС - с 12:00 до 20:00<br><b>Контакты:<br> </b><a href='tel:+74999767772'>+7 (499) 976-77-72</a><br><a href='https://cbssao.ru/biblio39' target='_blank'>Сайт</a>",
+                "clusterCaption": "Библиотека",
+                "class": "Библиотека",
+                "hintContent": "Библиотека &quot;Библиотека №39&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#brownBookIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.828619947448196, 37.578130089574]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Библиотека &quot;Библиотека №51&quot;",
+                "balloonContent": "<img src='images/library51.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>ул. Яблочкова, д. 43<br><b>Время работы: </b><br> ПН-ВС - с 12:00 до 20:00<br>ВС - с 12:00 до 18:00<br><b>Контакты:<br> </b><a href='tel:+74956101011'>+7(495)610-10-11</a><br><a href='https://bibliosvao.ru/51yablo4kova' target='_blank'>Сайт</a>",
+                "clusterCaption": "Библиотека",
+                "class": "Библиотека",
+                "hintContent": "Библиотека &quot;Библиотека №51&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#brownBookIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.834060595618254, 37.56491752796664]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Спортивный объект &quot;Спортивно-оздоровительный комплекс имени К.А. Тимирязева&quot;",
+                "balloonContent": "<img src='images/SOC.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Лиственничная аллея, 12Б<br><b>Время работы: </b><br> ПН-ВС - с 07:00 до 23:00<br><b>Контакты:<br> </b><a href='tel:+74999762811'>+7 (499) 976-28-11</a><br><a href='https://www.timacad.ru/about/struktura-universiteta/aup/uchebno-metodicheskoe-upravlenie/kafedra-fizicheskoi-kultury' target='_blank'>Сайт</a>",
+                "clusterCaption": "Спортивный объект",
+                "class": "Спортивный объект",
+                "hintContent": "Спортивный объект &quot;Спортивно-оздоровительный комплекс имени К.А. Тимирязева&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#redSportIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.83347372179304, 37.53664814144577]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Спортивный объект &quot;Спортивный комплекс Наука&quot;",
+                "balloonContent": "<img src='images/NAUKA.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Большая Академическая ул., 38, стр. 1<br><b>Время работы: </b><br> ПН-СБ - с 06:00 до 00:00<br><b>Контакты:<br> </b><a href='tel:+74991548280'>+7 (499) 154-82-80</a><br><a href='https://vk.com/club149817931' target='_blank'>ВКонтакте</a>",
+                "clusterCaption": "Спортивный объект",
+                "class": "Спортивный объект",
+                "hintContent": "Спортивный объект &quot;Спортивный комплекс Наука&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#redSportIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.833521169956846, 37.56055243740092]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Спортивный объект &quot;Теннисный корт&quot;",
+                "balloonContent": "<img src='images/Tennis.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Лиственничная аллея, 8А<br><b>Время работы: </b><br> ПН-ВС - с 07:00 до 23:00<br><b>Контакты:<br> </b><a href='tel:+74999762811'>+7 (499) 976-28-11</a><br><a href='https://www.timacad.ru/about/struktura-universiteta/aup/uchebno-metodicheskoe-upravlenie/kafedra-fizicheskoi-kultury' target='_blank'>Сайт</a>",
+                "clusterCaption": "Спортивный объект",
+                "class": "Спортивный объект",
+                "hintContent": "Спортивный объект &quot;Теннисный корт&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#redSportIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.833255491976594, 37.552833039856075]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Кинотеатр&quot;TimFilm&quot;",
+                "balloonContent": "<img src='images/TimFilm.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>Лиственничная аллея, 2, корп. 1<br><b>Время работы: </b><br> ПН-ПТ - с 19:00 до 22:00<br><b>Контакты:<br> </b><a href='tel:+74954249515'>+7 (495) 424-95-15</a><br><a href='https://www.timacad.ru/student-life/timfilm' target='_blank'>Сайт</a>",
+                "clusterCaption": "Кинотеатр",
+                "class": "Кинотеатр",
+                "hintContent": "Кинотеатр &quot;TimFilm&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#violetCinemaIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.82862182324197, 37.58040318678738]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Спортивный объект &quot;Центр физической культуры и спорта Северо-Восточного административного округа города Москвы&quot;",
+                "balloonContent": "<img src='images/CenterFiz.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>ул. Милашенкова, 14<br><b>Время работы: </b><br> ПН-ПТ - с 09:00 до 18:00<br><b>Контакты:<br> </b><a href='tel:+74956199418'>+7 (495) 619-94-18</a><br><a href='https://svao.mossport.ru/' target='_blank'>Сайт</a>",
+                "clusterCaption": "Спортивный объект",
+                "class": "Спортивный объект",
+                "hintContent": "Спортивный объект &quot;Центр физической культуры и спорта Северо-Восточного административного округа города Москвы&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#redSportIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.825845364300136, 37.53724989190391]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Спортивный объект &quot;Внедорожная велотрасса&quot;",
+                "balloonContent": "<img src='images/VeloRoad.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>парк Московской сельскохозяйственной академии имени К.А. Тимирязева<br><b>Время работы: </b><br> ПН-ВС - Круглосуточно<br><b>Контакты:<br> </b><a href='tel:+74959760132'>+7 (495) 976-01-32</a><br><a href='https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B8%D1%80%D1%8F%D0%B7%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA' target='_blank'>Сайт</a>",
+                "clusterCaption": "Спортивный объект",
+                "class": "Спортивный объект",
+                "hintContent": "Спортивный объект &quot;Внедорожная велотрасса&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#redSportIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates": [55.82087786606005, 37.53682548592048]
+            },
+            "properties":
+            {
+                "balloonContentHeader": "Спортивный объект &quot;Спортплощадка, воркаут&quot;",
+                "balloonContent": "<img src='images/Workout.jpg' width='180px' height='125px'><br><b>Адрес:</b><br>парк Московской сельскохозяйственной академии имени К.А. Тимирязева<br><b>Время работы: </b><br> ПН-ВС - Круглосуточно<br><b>Контакты:<br> </b><a href='tel:+74959760132'>+7 (495) 976-01-32</a><br><a href='https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B8%D1%80%D1%8F%D0%B7%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA' target='_blank'>Сайт</a>",
+                "clusterCaption": "Спортивный объект",
+                "class": "Спортивный объект",
+                "hintContent": "Спортивный объект &quot;Спортплощадка, воркаут&quot;"
+            },
+            "options":
+            {
+                "preset": "islands#redSportIcon"
+            }
+        }
+        
+    ]
+}
